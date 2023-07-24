@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ari1337/ari1337/master/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
